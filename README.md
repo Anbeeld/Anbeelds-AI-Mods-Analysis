@@ -6,6 +6,11 @@ Three case studies in chronological order, each representing a different approac
 2. **ARoAI** (Anbeeld's Revision of AI) -- Victoria 3 1.3.6
 3. **AI in Imperator: Invictus** -- Imperator: Rome (patches 1.9.1 through 1.10.1)
 
+Source links:
+- [ACAI Analysis](https://github.com/Anbeeld/anbeelds-custom-ai/blob/main/docs/analysis.md)
+- [ARoAI Analysis](https://github.com/Anbeeld/ARoAI/blob/main/docs/analysis.md)
+- [Invictus Dev Diaries](https://github.com/Anbeeld/imperator-invictus-ai-dev-diaries)
+
 ---
 
 ## 1. The Problem Space
